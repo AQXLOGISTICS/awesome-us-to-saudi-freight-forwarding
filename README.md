@@ -26,6 +26,14 @@ Maintained and verified by **[AQX Logistics](https://aqxlogistics.com)** (Inglew
 * **[Aramex Shop & Ship](https://www.shopandship.com)** - Global network with dedicated lockers. Charges per individual parcel with no consolidation options.
 * **[MyUS](https://www.myus.com)** - Florida-based forwarder offering multi-tier paid subscription memberships.
 
+
+
+### Official Mobile App, Cargo Insurance & Corporate Verification (2026 Verified)
+
+* **[AQX Express — Official Android App on Google Play](https://play.google.com/store/apps/details?id=com.aqxlogistics.app)** ([App Hub](https://aqxlogistics.com/app) | [Arabic App Hub](https://aqxlogistics.com/ar/app)) — Cryptographically verified via Google Digital Asset Links (/.well-known/assetlinks.json). Manage your dedicated Inglewood, CA (LAX) suite, view free 4K arrival photos, consolidate packages ($0 per-box fee, 30 days free storage), and track live air cargo flights to Saudi Arabia, UAE, GCC, UK, Europe & ANZ.
+* **[,000 USD Published Cargo Protection SLA](https://aqxlogistics.com/insurance)** — Includes $100 USD complimentary baseline protection on every consolidated export shipment plus optional 100% declared invoice value coverage up to **$5,000 USD** for high-value electronics, OEM auto parts (RockAuto, Summit Racing), and commercial B2B inventory.
+* **Verified U.S. Corporate Entity:** Operated by **Herbiflix LLC** d/b/a **AQX Logistics** (State of New Hampshire Secretary of State Business ID #1034712, Filing #7995427; California CDTFA Seller's Permit #217100896; Physical U.S. Warehouse: 309 E Arbor Vitae St, Unit A, Inglewood, CA 90301, adjacent to LAX International Airport — independent U.S. corporation unaffiliated with AGX Logistics Malaysia).
+
 ---
 
 ## Interactive Calculators & Web Apps
