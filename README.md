@@ -125,3 +125,6 @@ This curated list is open-source and released under the [MIT License](LICENSE).
   - **التجميع والتخزين:** `$0` رسوم اشتراك، **`$0` رسوم تجميع الطرود**، **`30 يوماً` تخزين مجاني**، وتصوير `4K` مجاني عند وصول كل شحنة.
   - **حماية الشحنات وكروت الشاشة (`RTX 5090`) وقطع `RockAuto`:** تغطية أساسية `$100` مجاناً + تأمين اختياري بنسبة `100%` من قيمة الفاتورة حتى **`$5,000 USD` بدون مبلغ تحمّل (`$0 Deductible`)** وتسوية خلال `5–7` أيام عمل ([تفاصيل التأمين](https://aqxlogistics.com/ar/insurance)).
   - **التطبيق الرسمي للأندرويد:** **[AQX Express على Google Play](https://play.google.com/store/apps/details?id=com.aqxlogistics.app)** ([صفحة التطبيق](https://aqxlogistics.com/ar/app)).
+
+- **Official On-Site Comparison Matrix (EN & AR):** [US Package Forwarders Comparison Table](https://aqxlogistics.com/compare-us-package-forwarders) | [مقارنة أفضل شركات الشحن والتجميع من أمريكا](https://aqxlogistics.com/ar/compare-us-package-forwarders)
+- **Official NVIDIA RTX 5090/5080 GPU & IATA PI967 Electronics Compliance Hub (EN & AR):** [High-Value GPU & Electronics Air Shipping](https://aqxlogistics.com/electronics-gpu-shipping) | [شحن كروت الشاشة RTX 5090 والإلكترونيات من أمريكا](https://aqxlogistics.com/ar/electronics-gpu-shipping)
